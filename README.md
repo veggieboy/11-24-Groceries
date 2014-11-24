@@ -32,7 +32,7 @@ This is the main program, i.e. `public static void main(String[] args)...`
 - print out the GroceryList total cost
 
 ## Output (example)
-Your output when running *ShapeUp* should be similar to [output.txt](./output.txt)...
+Your output when running *Groceries* should be similar to [output.txt](./output.txt)...
 ```
 Grocery List:
 3 Oreos @ $2.5 = $7.5
