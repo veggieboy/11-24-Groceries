@@ -1,0 +1,16 @@
+2,6c2,6
+< 3 Oreos @ $2.5 = $7.5
+< 2 Goldfish Crakers @ $1.75 = $3.5
+< 8 Apple @ $0.23 = $1.84
+< 2 Fruit Loops @ $4.32 = $8.64
+< 4 Pop Tarts @ $3.67 = $14.68
+---
+> 1 chicken @ $7.99 = $7.99
+> 2 gallon of milk @ $1.99 = $3.98
+> 3 box of cereal @ $2.5 = $7.5
+> 1 loaf of bread @ $1.25 = $1.25
+> 2 dozen eggs @ $0.99 = $1.98
+8c8
+< Total: $36.16
+---
+> Total: $22.7
